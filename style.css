@@ -33,6 +33,10 @@ body {
   color:#7a9292
 }
 
+.description {
+  color:#7a9292;
+}
+
 @media (max-width: 691px) {
   .location {
     margin-top: 1.5rem;
